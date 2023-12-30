@@ -16,4 +16,8 @@ question that help to analysis the music store dataset
 
 5. who is the best customer ? the person ho spent the most money will be decleard as the best customer write a query that return the customer name and his spent money.
 
-advanced question   
+modarate level question   
+
+1. Write query to return the email, first name, last name, & Genre of all Rock Music listeners. Return your list ordered alphabetically by email starting with A.
+
+2.Let's invite the artists who have written the most rock music in our dataset.  Write a query that returns the Artist name and total track count of the top 10 rock bands.
